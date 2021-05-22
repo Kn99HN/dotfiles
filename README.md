@@ -1,3 +1,3 @@
 # dotfiles
 
-These are the current dotfiles I experimenting with while learning.
+These are the current dotfiles I'm experimenting with while learning.
