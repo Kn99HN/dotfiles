@@ -1,7 +1,4 @@
 # Global .gitignore
-######################
-# Adapted from: https://github.com/github/gitignore
-# and https://gist.github.com/octocat/9257657
 
 # VSCode
 .vscode
@@ -9,8 +6,6 @@
 # Node
 node_modules
 
-# Sass
-.sass-cache
 
 # Compiled source
 ######################
