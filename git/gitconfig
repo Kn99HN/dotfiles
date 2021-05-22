@@ -1,0 +1,19 @@
+[user]
+  email = khanhnguyen99hn@gmail.com
+  name = Khanh Nguyen
+[core]
+  excludesfile=~/.gitignore-global
+[alias]
+  s = status
+  stat = status
+  l = log --oneline --graph
+  user = config user.name
+  email = config user.email
+  pf = !git push --force-with-lease
+  ra = remote add
+[color "status"]
+  added = green
+  changed = red
+  nobranch = red
+  untracked = yellow
+
