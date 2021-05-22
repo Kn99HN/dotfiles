@@ -11,6 +11,7 @@
   email = config user.email
   pf = !git push --force-with-lease
   ra = remote add
+  p = push
 [color "status"]
   added = green
   changed = red
