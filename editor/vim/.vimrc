@@ -1,4 +1,5 @@
 set number
+set autoindent
 syntax on
 set list
 set showbreak=↳
