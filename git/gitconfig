@@ -3,6 +3,7 @@
   name = Khanh Nguyen
 [core]
   excludesfile=~/.gitignore-global
+  editor = "vim"
 [alias]
   s = status
   stat = status
